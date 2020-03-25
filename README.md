@@ -1,5 +1,5 @@
 # quickstart-sap-hana-ha
-## SAP HANA High-Availability Deployment on AWS
+## SAP HANA High-Availability Deployment on GCP
 
 
 This Quick Start deploys SAP HANA (with SLES for SAP as underlying OS) across two availability zones and configures them for high availability.
